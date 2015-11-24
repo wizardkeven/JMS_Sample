@@ -46,9 +46,9 @@ public class MailDispatcherServlet extends HttpServlet {
 		
 		//properties to be read from external file or database or server properties 
 		
-		String fromEmail = "wizardkeven@gmail.com";
-		String username = "wizardkeven";
-		String password = "keven19871111";
+		String fromEmail = "ecom.franois@gmail.com";
+		String username = "polytech.ecom";
+		String password = "ecom1990";
 		
 		String resultMsg = "";
 //		(PrintWriter out =  resp.getWriter())
